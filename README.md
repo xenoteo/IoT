@@ -11,4 +11,4 @@ Tasks on IoT done on lab classes.
 - \[[lab2](https://github.com/xenoteo/IoT/tree/main/lab2)\] Implementation of the smart lighting in the house accroding to the following schema:
   <a href="https://imgur.com/P28jgMe"><img src="https://i.imgur.com/P28jgMe.png" title="source: imgur.com" height="300px"/></a>
 - \[[lab3](https://github.com/xenoteo/IoT/tree/main/lab3)\] Implementation of the smart lighting in the house accroding to the following schema:
-  <a href="https://imgur.com/kQWlJSR"><img src="https://i.imgur.com/kQWlJSR.png" title="source: imgur.com" height="300px"/></a>
+  <a href="https://imgur.com/RWqpBIt"><img src="https://i.imgur.com/RWqpBIt.png" title="source: imgur.com" height="300px"/></a>
