@@ -1,4 +1,4 @@
-from lab1.VirtualCopernicusNG import TkCircuit
+from VirtualCopernicusNG import TkCircuit
 
 # initialize the circuit inside the
 

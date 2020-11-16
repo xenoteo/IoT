@@ -1,4 +1,4 @@
-from lab2.VirtualCopernicusNG.tkgpio import TkCircuit
+from VirtualCopernicusNG.tkgpio import TkCircuit
 
 # initialize the circuit inside the
 configuration = {
